@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="PrimeFactorsCalculatorTest" tests="12" skipped="0" failures="0" errors="0" timestamp="2025-09-21T04:58:19" hostname="MSI" time="0.149">
+  <properties/>
+  <testcase name="testProductOfSecondPrime()" classname="PrimeFactorsCalculatorTest" time="0.107"/>
+  <testcase name="testProductOfThirdPrime()" classname="PrimeFactorsCalculatorTest" time="0.002"/>
+  <testcase name="testProductOfPrimes()" classname="PrimeFactorsCalculatorTest" time="0.002"/>
+  <testcase name="testProductOfFirstPrime()" classname="PrimeFactorsCalculatorTest" time="0.002"/>
+  <testcase name="testCubeOfAPrime()" classname="PrimeFactorsCalculatorTest" time="0.001"/>
+  <testcase name="testNoFactors()" classname="PrimeFactorsCalculatorTest" time="0.003"/>
+  <testcase name="testProductOfPrimesAndNonPrimes()" classname="PrimeFactorsCalculatorTest" time="0.001"/>
+  <testcase name="testPrimeNumber()" classname="PrimeFactorsCalculatorTest" time="0.001"/>
+  <testcase name="testSquareOfAPrime()" classname="PrimeFactorsCalculatorTest" time="0.002"/>
+  <testcase name="testProductOfFirstAndSecondPrime()" classname="PrimeFactorsCalculatorTest" time="0.001"/>
+  <testcase name="testAnotherPrimeNumber()" classname="PrimeFactorsCalculatorTest" time="0.001"/>
+  <testcase name="testFactorsIncludingALargePrime()" classname="PrimeFactorsCalculatorTest" time="0.008"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

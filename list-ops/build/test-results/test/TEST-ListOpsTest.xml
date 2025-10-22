@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ListOpsTest" tests="22" skipped="0" failures="0" errors="0" timestamp="2025-07-11T12:01:33" hostname="MSI" time="0.093">
+  <properties/>
+  <testcase name="testReversingNonEmptyList()" classname="ListOpsTest" time="0.04"/>
+  <testcase name="testFoldLeftEmptyList()" classname="ListOpsTest" time="0.004"/>
+  <testcase name="testFoldLeftDirectionDependentFunctionAppliedToNonEmptyList()" classname="ListOpsTest" time="0.001"/>
+  <testcase name="testTransformingNonEmptyList()" classname="ListOpsTest" time="0.002"/>
+  <testcase name="testReversingEmptyList()" classname="ListOpsTest" time="0.002"/>
+  <testcase name="testSizeOfNonEmptyList()" classname="ListOpsTest" time="0.002"/>
+  <testcase name="testFoldRightEmptyList()" classname="ListOpsTest" time="0.002"/>
+  <testcase name="testFilteringEmptyList()" classname="ListOpsTest" time="0.001"/>
+  <testcase name="testAppendingEmptyListToList()" classname="ListOpsTest" time="0.001"/>
+  <testcase name="testConcatListOfNestedLists()" classname="ListOpsTest" time="0.001"/>
+  <testcase name="testFoldLeftDirectionIndependentFunctionAppliedToNonEmptyList()" classname="ListOpsTest" time="0.001"/>
+  <testcase name="testAppendingEmptyLists()" classname="ListOpsTest" time="0.001"/>
+  <testcase name="testFoldRightDirectionIndependentFunctionAppliedToNonEmptyList()" classname="ListOpsTest" time="0.001"/>
+  <testcase name="testFilteringNonEmptyList()" classname="ListOpsTest" time="0.001"/>
+  <testcase name="testTransformingEmptyList()" classname="ListOpsTest" time="0.001"/>
+  <testcase name="testSizeOfEmptyList()" classname="ListOpsTest" time="0.001"/>
+  <testcase name="testAppendingNonEmptyLists()" classname="ListOpsTest" time="0.0"/>
+  <testcase name="testFoldRightDirectionDependentFunctionAppliedToNonEmptyList()" classname="ListOpsTest" time="0.001"/>
+  <testcase name="testReversingListOfListIsNotFlattened()" classname="ListOpsTest" time="0.001"/>
+  <testcase name="testConcatEmptyList()" classname="ListOpsTest" time="0.0"/>
+  <testcase name="testConcatListOfLists()" classname="ListOpsTest" time="0.001"/>
+  <testcase name="testAppendingListToEmptyList()" classname="ListOpsTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

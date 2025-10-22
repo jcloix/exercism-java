@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="PokerTest" tests="37" skipped="0" failures="0" errors="0" timestamp="2025-08-11T06:15:38" hostname="MSI" time="0.088">
+  <properties/>
+  <testcase name="squareVsStraightFlush()" classname="PokerTest" time="0.04"/>
+  <testcase name="twoDoublePairs()" classname="PokerTest" time="0.001"/>
+  <testcase name="threeVsStraight()" classname="PokerTest" time="0.001"/>
+  <testcase name="tieHasMultipleWinners()" classname="PokerTest" time="0.001"/>
+  <testcase name="twoSquares()" classname="PokerTest" time="0.0"/>
+  <testcase name="oneHand()" classname="PokerTest" time="0.0"/>
+  <testcase name="identicallyRankedPairs()" classname="PokerTest" time="0.002"/>
+  <testcase name="acesCannotBeInMiddleOfStraightFlush()" classname="PokerTest" time="0.0"/>
+  <testcase name="twoStraightFlushes()" classname="PokerTest" time="0.0"/>
+  <testcase name="acesStartingStraightFlush()" classname="PokerTest" time="0.001"/>
+  <testcase name="twoFlushs()" classname="PokerTest" time="0.001"/>
+  <testcase name="flushVsFull()" classname="PokerTest" time="0.001"/>
+  <testcase name="highestCardWins()" classname="PokerTest" time="0.001"/>
+  <testcase name="fullVsSquare()" classname="PokerTest" time="0.001"/>
+  <testcase name="onePairVsDoublePair()" classname="PokerTest" time="0.0"/>
+  <testcase name="twoStraights()" classname="PokerTest" time="0.001"/>
+  <testcase name="twoThrees()" classname="PokerTest" time="0.001"/>
+  <testcase name="straightVsFlush()" classname="PokerTest" time="0.0"/>
+  <testcase name="rankedByLargestPair()" classname="PokerTest" time="0.0"/>
+  <testcase name="nothingVsOnePair()" classname="PokerTest" time="0.001"/>
+  <testcase name="sameHighestPair()" classname="PokerTest" time="0.0"/>
+  <testcase name="sameHighCards()" classname="PokerTest" time="0.0"/>
+  <testcase name="acesEndingStraightFlush()" classname="PokerTest" time="0.0"/>
+  <testcase name="winningWithLowestCard()" classname="PokerTest" time="0.001"/>
+  <testcase name="doublePairVsThree()" classname="PokerTest" time="0.001"/>
+  <testcase name="acesCanEndAStraight()" classname="PokerTest" time="0.0"/>
+  <testcase name="sameSquaresMultipleDecks()" classname="PokerTest" time="0.0"/>
+  <testcase name="sameThreesMultipleDecks()" classname="PokerTest" time="0.0"/>
+  <testcase name="twoPairsAddingToSameValue()" classname="PokerTest" time="0.0"/>
+  <testcase name="acesCanStartAStraight()" classname="PokerTest" time="0.0"/>
+  <testcase name="acesCannotBeInMiddleOfStraight()" classname="PokerTest" time="0.0"/>
+  <testcase name="twoFullssameThripletMultipleDecks()" classname="PokerTest" time="0.0"/>
+  <testcase name="twoFulls()" classname="PokerTest" time="0.0"/>
+  <testcase name="twoPairs()" classname="PokerTest" time="0.0"/>
+  <testcase name="theLowestStraightStartsWithAce()" classname="PokerTest" time="0.001"/>
+  <testcase name="samePair()" classname="PokerTest" time="0.001"/>
+  <testcase name="straightFlushTo5IsTheLowestScoring()" classname="PokerTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

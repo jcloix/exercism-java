@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="AtbashTest" tests="14" skipped="0" failures="0" errors="0" timestamp="2025-07-18T10:34:43" hostname="MSI" time="0.076">
+  <properties/>
+  <testcase name="testEncodeYes()" classname="AtbashTest" time="0.04"/>
+  <testcase name="testDecodeWithNoSpaces()" classname="AtbashTest" time="0.001"/>
+  <testcase name="testEncodeMindBlowingly()" classname="AtbashTest" time="0.005"/>
+  <testcase name="testEncodeNo()" classname="AtbashTest" time="0.002"/>
+  <testcase name="testDecodeWithTooManySpaces()" classname="AtbashTest" time="0.001"/>
+  <testcase name="testEncodeAllTheLetters()" classname="AtbashTest" time="0.001"/>
+  <testcase name="testEncodeOmgInCapital()" classname="AtbashTest" time="0.001"/>
+  <testcase name="testDecodeNumbers()" classname="AtbashTest" time="0.001"/>
+  <testcase name="testDecodeExercism()" classname="AtbashTest" time="0.002"/>
+  <testcase name="testEncodeDeepThought()" classname="AtbashTest" time="0.002"/>
+  <testcase name="testDecodeAllTheLetters()" classname="AtbashTest" time="0.001"/>
+  <testcase name="testEncodeNumbers()" classname="AtbashTest" time="0.0"/>
+  <testcase name="testEncodeOmgWithSpaces()" classname="AtbashTest" time="0.001"/>
+  <testcase name="testDecodeASentence()" classname="AtbashTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

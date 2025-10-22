@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="YachtTest" tests="29" skipped="0" failures="0" errors="0" timestamp="2025-07-17T22:53:42" hostname="MSI" time="0.09">
+  <properties/>
+  <testcase name="bigStraightAsLittleStraight()" classname="YachtTest" time="0.038"/>
+  <testcase name="onesOutOfOrder()" classname="YachtTest" time="0.001"/>
+  <testcase name="yachtCanBeScoredAsFourOfAKind()" classname="YachtTest" time="0.007"/>
+  <testcase name="yachtCountedAsThrees()" classname="YachtTest" time="0.001"/>
+  <testcase name="choice()" classname="YachtTest" time="0.0"/>
+  <testcase name="noPairsButNotABigStraight()" classname="YachtTest" time="0.001"/>
+  <testcase name="fullHouseTwoSmallThreeBig()" classname="YachtTest" time="0.002"/>
+  <testcase name="yachtOfThreesCountedAsFives()" classname="YachtTest" time="0.001"/>
+  <testcase name="noOnes()" classname="YachtTest" time="0.001"/>
+  <testcase name="noPairsButNotALittleStraight()" classname="YachtTest" time="0.001"/>
+  <testcase name="littleStraightAsBigStraight()" classname="YachtTest" time="0.001"/>
+  <testcase name="fourOfAKindIsNotAFullHouse()" classname="YachtTest" time="0.001"/>
+  <testcase name="ones()" classname="YachtTest" time="0.001"/>
+  <testcase name="twos()" classname="YachtTest" time="0.001"/>
+  <testcase name="fives()" classname="YachtTest" time="0.0"/>
+  <testcase name="fours()" classname="YachtTest" time="0.001"/>
+  <testcase name="sixes()" classname="YachtTest" time="0.001"/>
+  <testcase name="yacht()" classname="YachtTest" time="0.003"/>
+  <testcase name="littleStraight()" classname="YachtTest" time="0.0"/>
+  <testcase name="yachtIsNotAFullHouse()" classname="YachtTest" time="0.001"/>
+  <testcase name="fullHouseIsNotFourOfAKind()" classname="YachtTest" time="0.001"/>
+  <testcase name="twoPairIsNotAFullHouse()" classname="YachtTest" time="0.001"/>
+  <testcase name="yachtAsChoice()" classname="YachtTest" time="0.001"/>
+  <testcase name="bigStraight()" classname="YachtTest" time="0.001"/>
+  <testcase name="fourOfAKind()" classname="YachtTest" time="0.001"/>
+  <testcase name="notYacht()" classname="YachtTest" time="0.001"/>
+  <testcase name="fourInOrderButNotALittleStraight()" classname="YachtTest" time="0.001"/>
+  <testcase name="fullHouseThreeSmallTwoBig()" classname="YachtTest" time="0.001"/>
+  <testcase name="minimumIs1MaximumIs5ButNotALittleStraight()" classname="YachtTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

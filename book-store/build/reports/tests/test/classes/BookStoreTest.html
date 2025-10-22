@@ -1,0 +1,248 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<meta http-equiv="x-ua-compatible" content="IE=edge"/>
+<title>Test results - Class BookStoreTest</title>
+<link href="../css/base-style.css" rel="stylesheet" type="text/css"/>
+<link href="../css/style.css" rel="stylesheet" type="text/css"/>
+<script src="../js/report.js" type="text/javascript"></script>
+</head>
+<body>
+<div id="content">
+<h1>Class BookStoreTest</h1>
+<div class="breadcrumbs">
+<a href="../index.html">all</a> &gt; 
+<a href="../packages/default-package.html">default-package</a> &gt; BookStoreTest</div>
+<div id="summary">
+<table>
+<tr>
+<td>
+<div class="summaryGroup">
+<table>
+<tr>
+<td>
+<div class="infoBox" id="tests">
+<div class="counter">19</div>
+<p>tests</p>
+</div>
+</td>
+<td>
+<div class="infoBox" id="failures">
+<div class="counter">2</div>
+<p>failures</p>
+</div>
+</td>
+<td>
+<div class="infoBox" id="ignored">
+<div class="counter">0</div>
+<p>ignored</p>
+</div>
+</td>
+<td>
+<div class="infoBox" id="duration">
+<div class="counter">0.079s</div>
+<p>duration</p>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</td>
+<td>
+<div class="infoBox failures" id="successRate">
+<div class="percent">89%</div>
+<p>successful</p>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div id="tabs">
+<ul class="tabLinks">
+<li>
+<a href="#tab0">Failed tests</a>
+</li>
+<li>
+<a href="#tab1">Tests</a>
+</li>
+</ul>
+<div id="tab0" class="tab">
+<h2>Failed tests</h2>
+<div class="test">
+<a name="oneGroupOfOneAndTwoPlusThreeGroupsOfFourIsCheaperThanOneGroupOfEachSize()"></a>
+<h3 class="failures">One group of one and two plus three groups of four is cheaper than one group of each size</h3>
+<span class="code">
+<pre>java.lang.AssertionError: 
+Expecting actual:
+  100.4
+to be close to:
+  100.0
+by less than 0.001 but difference was 0.4.
+(a difference of exactly 0.001 being considered valid)
+	at BookStoreTest.oneGroupOfOneAndTwoPlusThreeGroupsOfFourIsCheaperThanOneGroupOfEachSize(BookStoreTest.java:177)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1596)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1596)
+</pre>
+</span>
+</div>
+<div class="test">
+<a name="twoGroupsOfFourIsCheaperThanGroupsOfFiveAndThree()"></a>
+<h3 class="failures">Two groups of four is cheaper than groups of five and three</h3>
+<span class="code">
+<pre>java.lang.AssertionError: 
+Expecting actual:
+  51.6
+to be close to:
+  51.2
+by less than 0.001 but difference was 0.4.
+(a difference of exactly 0.001 being considered valid)
+	at BookStoreTest.twoGroupsOfFourIsCheaperThanGroupsOfFiveAndThree(BookStoreTest.java:95)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1596)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1596)
+</pre>
+</span>
+</div>
+</div>
+<div id="tab1" class="tab">
+<h2>Tests</h2>
+<table>
+<thead>
+<tr>
+<th>Test</th>
+<th>Method name</th>
+<th>Duration</th>
+<th>Result</th>
+</tr>
+</thead>
+<tr>
+<td class="success">Empty basket</td>
+<td class="success">emptyBasket()</td>
+<td class="success">0.001s</td>
+<td class="success">passed</td>
+</tr>
+<tr>
+<td class="success">Five different books</td>
+<td class="success">fiveDifferentBooks()</td>
+<td class="success">0.001s</td>
+<td class="success">passed</td>
+</tr>
+<tr>
+<td class="success">Four different books</td>
+<td class="success">fourDifferentBooks()</td>
+<td class="success">0.003s</td>
+<td class="success">passed</td>
+</tr>
+<tr>
+<td class="success">Four groups of four are cheaper than two groups each of five and three</td>
+<td class="success">fourGroupsOfFourAreCheaperThanTwoGroupsEachOfFiveAndThree()</td>
+<td class="success">0.001s</td>
+<td class="success">passed</td>
+</tr>
+<tr>
+<td class="success">Group of four plus group of two is cheaper than two groups of three</td>
+<td class="success">groupOfFourPlusGroupOfTwoIsCheaperThanTwoGroupsOfThree()</td>
+<td class="success">0.002s</td>
+<td class="success">passed</td>
+</tr>
+<tr>
+<td class="success">Check that groups of four are created properly even when there are more groups of three than groups of five</td>
+<td class="success">groupsOfFourAreCreatedEvenWhenThereAreMoreGroupsOfThreeThanGroupsOfFive()</td>
+<td class="success">0.001s</td>
+<td class="success">passed</td>
+</tr>
+<tr>
+<td class="success">One group of one and four is cheaper than one group of two and three</td>
+<td class="success">oneGroupOfOneAndFourIsCheaperThanOneGroupOfTwoAndThree()</td>
+<td class="success">0.040s</td>
+<td class="success">passed</td>
+</tr>
+<tr>
+<td class="failures">One group of one and two plus three groups of four is cheaper than one group of each size</td>
+<td class="failures">oneGroupOfOneAndTwoPlusThreeGroupsOfFourIsCheaperThanOneGroupOfEachSize()</td>
+<td class="failures">0.002s</td>
+<td class="failures">failed</td>
+</tr>
+<tr>
+<td class="success">Only a single book</td>
+<td class="success">onlyASingleBook()</td>
+<td class="success">0.002s</td>
+<td class="success">passed</td>
+</tr>
+<tr>
+<td class="success">Three copies of first book and two each of remaining</td>
+<td class="success">threeCopiesOfFirstBookAndTwoEachOfRemaining()</td>
+<td class="success">0.003s</td>
+<td class="success">passed</td>
+</tr>
+<tr>
+<td class="success">Three different books</td>
+<td class="success">threeDifferentBooks()</td>
+<td class="success">0.002s</td>
+<td class="success">passed</td>
+</tr>
+<tr>
+<td class="success">Three each of first two books and two each of remaining books</td>
+<td class="success">threeEachOfFirstTwoBooksAndTwoEachOfRemainingBooks()</td>
+<td class="success">0.003s</td>
+<td class="success">passed</td>
+</tr>
+<tr>
+<td class="success">Two copies of each book</td>
+<td class="success">twoCopiesOfEachBook()</td>
+<td class="success">0.001s</td>
+<td class="success">passed</td>
+</tr>
+<tr>
+<td class="success">Two different books</td>
+<td class="success">twoDifferentBooks()</td>
+<td class="success">0s</td>
+<td class="success">passed</td>
+</tr>
+<tr>
+<td class="success">Two each of first four books and one copy each of rest</td>
+<td class="success">twoEachOfFirst4BooksAnd1CopyEachOfRest()</td>
+<td class="success">0.001s</td>
+<td class="success">passed</td>
+</tr>
+<tr>
+<td class="success">Two groups of four is cheaper than group of five plus group of three</td>
+<td class="success">twoGroupsOfFourIsCheaperThanGroupOfFivePlusGroupOfThree()</td>
+<td class="success">0s</td>
+<td class="success">passed</td>
+</tr>
+<tr>
+<td class="failures">Two groups of four is cheaper than groups of five and three</td>
+<td class="failures">twoGroupsOfFourIsCheaperThanGroupsOfFiveAndThree()</td>
+<td class="failures">0.014s</td>
+<td class="failures">failed</td>
+</tr>
+<tr>
+<td class="success">Two groups of four is cheaper than groups of five and three</td>
+<td class="success">twoGroupsOfFourIsCheaperThanGroupsOfFiveAndThrees()</td>
+<td class="success">0.001s</td>
+<td class="success">passed</td>
+</tr>
+<tr>
+<td class="success">Two of the same book</td>
+<td class="success">twoOfSameBook()</td>
+<td class="success">0.001s</td>
+<td class="success">passed</td>
+</tr>
+</table>
+</div>
+</div>
+<div id="footer">
+<p>
+<div>
+<label class="hidden" id="label-for-line-wrapping-toggle" for="line-wrapping-toggle">Wrap lines
+<input id="line-wrapping-toggle" type="checkbox" autocomplete="off"/>
+</label>
+</div>Generated by 
+<a href="http://www.gradle.org">Gradle 8.7</a> at Sep 1, 2025, 4:50:27 PM</p>
+</div>
+</div>
+</body>
+</html>

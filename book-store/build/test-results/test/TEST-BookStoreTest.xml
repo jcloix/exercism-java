@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="BookStoreTest" tests="19" skipped="0" failures="2" errors="0" timestamp="2025-09-01T07:50:27" hostname="MSI" time="0.099">
+  <properties/>
+  <testcase name="One group of one and four is cheaper than one group of two and three" classname="BookStoreTest" time="0.04"/>
+  <testcase name="Four different books" classname="BookStoreTest" time="0.003"/>
+  <testcase name="Three different books" classname="BookStoreTest" time="0.002"/>
+  <testcase name="Group of four plus group of two is cheaper than two groups of three" classname="BookStoreTest" time="0.002"/>
+  <testcase name="Three each of first two books and two each of remaining books" classname="BookStoreTest" time="0.003"/>
+  <testcase name="Only a single book" classname="BookStoreTest" time="0.002"/>
+  <testcase name="Three copies of first book and two each of remaining" classname="BookStoreTest" time="0.003"/>
+  <testcase name="Five different books" classname="BookStoreTest" time="0.001"/>
+  <testcase name="Two groups of four is cheaper than groups of five and three" classname="BookStoreTest" time="0.001"/>
+  <testcase name="Two of the same book" classname="BookStoreTest" time="0.001"/>
+  <testcase name="Empty basket" classname="BookStoreTest" time="0.001"/>
+  <testcase name="Two groups of four is cheaper than groups of five and three" classname="BookStoreTest" time="0.014">
+    <failure message="java.lang.AssertionError: &#13;&#10;Expecting actual:&#13;&#10;  51.6&#13;&#10;to be close to:&#13;&#10;  51.2&#13;&#10;by less than 0.001 but difference was 0.4.&#13;&#10;(a difference of exactly 0.001 being considered valid)" type="java.lang.AssertionError">java.lang.AssertionError: 
+Expecting actual:
+  51.6
+to be close to:
+  51.2
+by less than 0.001 but difference was 0.4.
+(a difference of exactly 0.001 being considered valid)
+	at BookStoreTest.twoGroupsOfFourIsCheaperThanGroupsOfFiveAndThree(BookStoreTest.java:95)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1596)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1596)
+</failure>
+  </testcase>
+  <testcase name="Two each of first four books and one copy each of rest" classname="BookStoreTest" time="0.001"/>
+  <testcase name="One group of one and two plus three groups of four is cheaper than one group of each size" classname="BookStoreTest" time="0.002">
+    <failure message="java.lang.AssertionError: &#13;&#10;Expecting actual:&#13;&#10;  100.4&#13;&#10;to be close to:&#13;&#10;  100.0&#13;&#10;by less than 0.001 but difference was 0.4.&#13;&#10;(a difference of exactly 0.001 being considered valid)" type="java.lang.AssertionError">java.lang.AssertionError: 
+Expecting actual:
+  100.4
+to be close to:
+  100.0
+by less than 0.001 but difference was 0.4.
+(a difference of exactly 0.001 being considered valid)
+	at BookStoreTest.oneGroupOfOneAndTwoPlusThreeGroupsOfFourIsCheaperThanOneGroupOfEachSize(BookStoreTest.java:177)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1596)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1596)
+</failure>
+  </testcase>
+  <testcase name="Two copies of each book" classname="BookStoreTest" time="0.001"/>
+  <testcase name="Four groups of four are cheaper than two groups each of five and three" classname="BookStoreTest" time="0.001"/>
+  <testcase name="Check that groups of four are created properly even when there are more groups of three than groups of five" classname="BookStoreTest" time="0.001"/>
+  <testcase name="Two groups of four is cheaper than group of five plus group of three" classname="BookStoreTest" time="0.0"/>
+  <testcase name="Two different books" classname="BookStoreTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="MarkdownTest" tests="17" skipped="0" failures="0" errors="0" timestamp="2025-07-29T23:24:32" hostname="MSI" time="0.073">
+  <properties/>
+  <testcase name="normalTextAsAParagraph()" classname="MarkdownTest" time="0.044"/>
+  <testcase name="withH1HeaderLevel()" classname="MarkdownTest" time="0.002"/>
+  <testcase name="normalItalicsAndBoldText()" classname="MarkdownTest" time="0.002"/>
+  <testcase name="withH2HeaderLevel()" classname="MarkdownTest" time="0.002"/>
+  <testcase name="markdownSymbolsInTheParagraphTextShouldNotBeInterpreted()" classname="MarkdownTest" time="0.0"/>
+  <testcase name="withH3HeaderLevel()" classname="MarkdownTest" time="0.001"/>
+  <testcase name="withH4HeaderLevel()" classname="MarkdownTest" time="0.001"/>
+  <testcase name="withH5HeaderLevel()" classname="MarkdownTest" time="0.001"/>
+  <testcase name="h7HeaderLevelIsAParagraph()" classname="MarkdownTest" time="0.001"/>
+  <testcase name="withH6HeaderLevel()" classname="MarkdownTest" time="0.0"/>
+  <testcase name="unorderedLists()" classname="MarkdownTest" time="0.001"/>
+  <testcase name="aLittleBitOfEverything()" classname="MarkdownTest" time="0.001"/>
+  <testcase name="markdownSymbolsInTheListItemTextShouldNotBeInterpreted()" classname="MarkdownTest" time="0.001"/>
+  <testcase name="markdownSymbolsInTheHeaderShouldNotBeInterpreted()" classname="MarkdownTest" time="0.0"/>
+  <testcase name="markdownUnorderedListsCloseProperlyWithPrecedingAndFollowingLines()" classname="MarkdownTest" time="0.0"/>
+  <testcase name="boldText()" classname="MarkdownTest" time="0.001"/>
+  <testcase name="italics()" classname="MarkdownTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

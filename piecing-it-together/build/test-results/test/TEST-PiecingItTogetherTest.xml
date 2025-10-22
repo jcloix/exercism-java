@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="PiecingItTogetherTest" tests="7" skipped="0" failures="0" errors="0" timestamp="2025-07-24T22:31:51" hostname="MSI" time="0.054">
+  <properties/>
+  <testcase name="testInsufficientData()" classname="PiecingItTogetherTest" time="0.039"/>
+  <testcase name="testInsideAndAspectRatioOnly()" classname="PiecingItTogetherTest" time="0.003"/>
+  <testcase name="testSquarePuzzleWith32Rows()" classname="PiecingItTogetherTest" time="0.002"/>
+  <testcase name="test300PiecesPortraitWithBorder()" classname="PiecingItTogetherTest" time="0.002"/>
+  <testcase name="testLandscape1500WithRowsAndAspect()" classname="PiecingItTogetherTest" time="0.001"/>
+  <testcase name="testContradictoryData()" classname="PiecingItTogetherTest" time="0.001"/>
+  <testcase name="test1000PiecesWithAspectRatio()" classname="PiecingItTogetherTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="IsbnVerifierTest" tests="20" skipped="0" failures="0" errors="0" timestamp="2025-07-15T06:26:35" hostname="MSI" time="0.066">
+  <properties/>
+  <testcase name="isbnWithoutCheckDigit()" classname="IsbnVerifierTest" time="0.036"/>
+  <testcase name="invalidCharacterInIsbn()" classname="IsbnVerifierTest" time="0.0"/>
+  <testcase name="invalidCharactersAreNotIgnoredAfterCheckingLength()" classname="IsbnVerifierTest" time="0.0"/>
+  <testcase name="emptyIsbn()" classname="IsbnVerifierTest" time="0.0"/>
+  <testcase name="validIsbnNumberWithCheckDigitOfTen()" classname="IsbnVerifierTest" time="0.0"/>
+  <testcase name="tooShortIsbn()" classname="IsbnVerifierTest" time="0.0"/>
+  <testcase name="checkDigitIsACharacterOtherThanX()" classname="IsbnVerifierTest" time="0.001"/>
+  <testcase name="tooLongIsbnAndNoDashes()" classname="IsbnVerifierTest" time="0.0"/>
+  <testcase name="xIsOnlyValidAsACheckDigit()" classname="IsbnVerifierTest" time="0.0"/>
+  <testcase name="invalidCharactersAreNotIgnoredBeforeCheckingLength()" classname="IsbnVerifierTest" time="0.001"/>
+  <testcase name="inputIsNineCharacters()" classname="IsbnVerifierTest" time="0.001"/>
+  <testcase name="isbnWithoutSeparatingDashesAndXAsCheckDigit()" classname="IsbnVerifierTest" time="0.001"/>
+  <testcase name="validIsbnNumber()" classname="IsbnVerifierTest" time="0.001"/>
+  <testcase name="isbnWithoutCheckDigitAndDashes()" classname="IsbnVerifierTest" time="0.001"/>
+  <testcase name="invalidCheckDigitInIsbn()" classname="IsbnVerifierTest" time="0.001"/>
+  <testcase name="validIsbnWithoutSeparatingDashes()" classname="IsbnVerifierTest" time="0.001"/>
+  <testcase name="inputIsTooLongButContainsAValidIsbn()" classname="IsbnVerifierTest" time="0.001"/>
+  <testcase name="checkDigitOfXShouldNotBeUsedForZero()" classname="IsbnVerifierTest" time="0.002"/>
+  <testcase name="validIsbnNumberWithCheckDigitPaddedWithLettersIsInvalid()" classname="IsbnVerifierTest" time="0.001"/>
+  <testcase name="invalidIsbnCheckDigit()" classname="IsbnVerifierTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

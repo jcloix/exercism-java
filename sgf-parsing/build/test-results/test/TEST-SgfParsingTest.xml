@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="SgfParsingTest" tests="23" skipped="0" failures="0" errors="0" timestamp="2025-08-12T14:33:20" hostname="MSI" time="0.072">
+  <properties/>
+  <testcase name="escapedClosingBracket()" classname="SgfParsingTest" time="0.035"/>
+  <testcase name="escapedTAndN()" classname="SgfParsingTest" time="0.001"/>
+  <testcase name="multipleProperties()" classname="SgfParsingTest" time="0.001"/>
+  <testcase name="nodeWithoutTree()" classname="SgfParsingTest" time="0.004"/>
+  <testcase name="allLowercaseProperty()" classname="SgfParsingTest" time="0.005"/>
+  <testcase name="emptyInput()" classname="SgfParsingTest" time="0.001"/>
+  <testcase name="paranthesesNeedNotToBeEscaped()" classname="SgfParsingTest" time="0.001"/>
+  <testcase name="nodeWithoutProperties()" classname="SgfParsingTest" time="0.0"/>
+  <testcase name="multiplePropertyValues()" classname="SgfParsingTest" time="0.001"/>
+  <testcase name="semicolonNeedNotToBeEscaped()" classname="SgfParsingTest" time="0.001"/>
+  <testcase name="mixOfEscapedCharactersAndWhitespaces()" classname="SgfParsingTest" time="0.001"/>
+  <testcase name="escapedTab()" classname="SgfParsingTest" time="0.001"/>
+  <testcase name="twoChildTrees()" classname="SgfParsingTest" time="0.001"/>
+  <testcase name="escapedBacklash()" classname="SgfParsingTest" time="0.0"/>
+  <testcase name="upperAndLowercaseProperty()" classname="SgfParsingTest" time="0.001"/>
+  <testcase name="withinPropertyValueWhitespace()" classname="SgfParsingTest" time="0.0"/>
+  <testcase name="withinPropertyValueNewline()" classname="SgfParsingTest" time="0.0"/>
+  <testcase name="openingBracketNeedNotToBeEscaped()" classname="SgfParsingTest" time="0.001"/>
+  <testcase name="singleNodeTree()" classname="SgfParsingTest" time="0.001"/>
+  <testcase name="escapedNewline()" classname="SgfParsingTest" time="0.0"/>
+  <testcase name="twoNodes()" classname="SgfParsingTest" time="0.0"/>
+  <testcase name="propertiesWithoutDelimiter()" classname="SgfParsingTest" time="0.001"/>
+  <testcase name="treeWithNoNodes()" classname="SgfParsingTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

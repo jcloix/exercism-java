@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="RobotTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2025-07-20T23:20:17" hostname="MSI" time="0.153">
+  <properties/>
+  <testcase name="robotNamesAreUnique()" classname="RobotTest" time="0.136"/>
+  <testcase name="sameRobotsHaveSameNames()" classname="RobotTest" time="0.005"/>
+  <testcase name="differentRobotsHaveDifferentNames()" classname="RobotTest" time="0.003"/>
+  <testcase name="hasName()" classname="RobotTest" time="0.001"/>
+  <testcase name="resetName()" classname="RobotTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ForthEvaluatorTest" tests="55" skipped="0" failures="0" errors="0" timestamp="2025-09-09T07:03:32" hostname="MSI" time="0.148">
+  <properties/>
+  <testcase name="errors if there is only one value on the stack" classname="ForthEvaluatorTest" time="0.042"/>
+  <testcase name="addition and multiplication" classname="ForthEvaluatorTest" time="0.009"/>
+  <testcase name="user-defined words are case-insensitive" classname="ForthEvaluatorTest" time="0.001"/>
+  <testcase name="copies the second element if there are more than two" classname="ForthEvaluatorTest" time="0.001"/>
+  <testcase name="copies the second element if there are only two" classname="ForthEvaluatorTest" time="0.002"/>
+  <testcase name="errors if there is nothing on the stack" classname="ForthEvaluatorTest" time="0.002"/>
+  <testcase name="errors if there is only one value on the stack" classname="ForthEvaluatorTest" time="0.003"/>
+  <testcase name="more than two values on the stack" classname="ForthEvaluatorTest" time="0.002"/>
+  <testcase name="can consist of built-in words" classname="ForthEvaluatorTest" time="0.001"/>
+  <testcase name="errors if there is nothing on the stack" classname="ForthEvaluatorTest" time="0.002"/>
+  <testcase name="errors if there is nothing on the stack" classname="ForthEvaluatorTest" time="0.002"/>
+  <testcase name="removes the top value on the stack if it is the only one" classname="ForthEvaluatorTest" time="0.002"/>
+  <testcase name="errors if there is nothing on the stack" classname="ForthEvaluatorTest" time="0.002"/>
+  <testcase name="cannot redefine non-negative numbers" classname="ForthEvaluatorTest" time="0.001"/>
+  <testcase name="can override other user-defined words" classname="ForthEvaluatorTest" time="0.001"/>
+  <testcase name="can subtract two numbers" classname="ForthEvaluatorTest" time="0.002"/>
+  <testcase name="performs integer division" classname="ForthEvaluatorTest" time="0.002"/>
+  <testcase name="swaps the top two values on the stack if they are the only ones" classname="ForthEvaluatorTest" time="0.002"/>
+  <testcase name="errors if there is only one value on the stack" classname="ForthEvaluatorTest" time="0.002"/>
+  <testcase name="errors if there is only one value on the stack" classname="ForthEvaluatorTest" time="0.001"/>
+  <testcase name="errors if there is only one value on the stack" classname="ForthEvaluatorTest" time="0.001"/>
+  <testcase name="multiplication and addition" classname="ForthEvaluatorTest" time="0.001"/>
+  <testcase name="addition and subtraction" classname="ForthEvaluatorTest" time="0.0"/>
+  <testcase name="errors if there is nothing on the stack" classname="ForthEvaluatorTest" time="0.001"/>
+  <testcase name="more than two values on the stack" classname="ForthEvaluatorTest" time="0.001"/>
+  <testcase name="errors if there is nothing on the stack" classname="ForthEvaluatorTest" time="0.001"/>
+  <testcase name="errors if there is only one value on the stack" classname="ForthEvaluatorTest" time="0.001"/>
+  <testcase name="removes the top value on the stack if it is not the only one" classname="ForthEvaluatorTest" time="0.001"/>
+  <testcase name="errors if there is nothing on the stack" classname="ForthEvaluatorTest" time="0.001"/>
+  <testcase name="pushes negative numbers onto the stack" classname="ForthEvaluatorTest" time="0.0"/>
+  <testcase name="can define word that uses word with the same name" classname="ForthEvaluatorTest" time="0.0"/>
+  <testcase name="can multiply two numbers" classname="ForthEvaluatorTest" time="0.001"/>
+  <testcase name="definitions are case-insensitive" classname="ForthEvaluatorTest" time="0.001"/>
+  <testcase name="can divide two numbers" classname="ForthEvaluatorTest" time="0.0"/>
+  <testcase name="more than two values on the stack" classname="ForthEvaluatorTest" time="0.0"/>
+  <testcase name="can override built-in operators" classname="ForthEvaluatorTest" time="0.001"/>
+  <testcase name="execute in the right order" classname="ForthEvaluatorTest" time="0.001"/>
+  <testcase name="errors if dividing by zero" classname="ForthEvaluatorTest" time="0.0"/>
+  <testcase name="OVER is case-insensitive" classname="ForthEvaluatorTest" time="0.0"/>
+  <testcase name="cannot redefine negative numbers" classname="ForthEvaluatorTest" time="0.001"/>
+  <testcase name="errors if executing a non-existent word" classname="ForthEvaluatorTest" time="0.003"/>
+  <testcase name="swaps the top two values on the stack if they are not the only ones" classname="ForthEvaluatorTest" time="0.001"/>
+  <testcase name="can override built-in words" classname="ForthEvaluatorTest" time="0.0"/>
+  <testcase name="only defines locally" classname="ForthEvaluatorTest" time="0.0"/>
+  <testcase name="multiplication and division" classname="ForthEvaluatorTest" time="0.001"/>
+  <testcase name="can use different words with the same name" classname="ForthEvaluatorTest" time="0.001"/>
+  <testcase name="numbers just get pushed onto the stack" classname="ForthEvaluatorTest" time="0.0"/>
+  <testcase name="DUP is case-insensitive" classname="ForthEvaluatorTest" time="0.0"/>
+  <testcase name="can add two numbers" classname="ForthEvaluatorTest" time="0.001"/>
+  <testcase name="errors if there is nothing on the stack" classname="ForthEvaluatorTest" time="0.001"/>
+  <testcase name="copies the top value on the stack" classname="ForthEvaluatorTest" time="0.002"/>
+  <testcase name="DROP is case-insensitive" classname="ForthEvaluatorTest" time="0.0"/>
+  <testcase name="more than two values on the stack" classname="ForthEvaluatorTest" time="0.001"/>
+  <testcase name="SWAP is case-insensitive" classname="ForthEvaluatorTest" time="0.0"/>
+  <testcase name="copies a value on the stack" classname="ForthEvaluatorTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ReactTest" tests="14" skipped="0" failures="0" errors="0" timestamp="2025-09-08T06:30:10" hostname="MSI" time="0.072">
+  <properties/>
+  <testcase name="testInputCellHasValue()" classname="ReactTest" time="0.036"/>
+  <testcase name="testComputeCellsFireCallbacks()" classname="ReactTest" time="0.007"/>
+  <testcase name="testComputeCellsInTheRightOrder()" classname="ReactTest" time="0.001"/>
+  <testcase name="testCallbacksShouldNotBeCalledIfDependenciesChangeButOutputValueDoesntChange()" classname="ReactTest" time="0.004"/>
+  <testcase name="testCallbacksCanFireFromMultipleCells()" classname="ReactTest" time="0.002"/>
+  <testcase name="testCallbacksDoNotReportAlreadyReportedValues()" classname="ReactTest" time="0.001"/>
+  <testcase name="testCallbacksOnlyFireOnChange()" classname="ReactTest" time="0.002"/>
+  <testcase name="testComputeCellsCanDependOnOtherComputeCells()" classname="ReactTest" time="0.001"/>
+  <testcase name="testComputeCellCalculateInitialValue()" classname="ReactTest" time="0.001"/>
+  <testcase name="testRemovingACallbackMultipleTimesDoesntInterfereWithOtherCallbacks()" classname="ReactTest" time="0.0"/>
+  <testcase name="testComputeCellsUpdateValueWhenDependenciesAreChanged()" classname="ReactTest" time="0.002"/>
+  <testcase name="testInputCellValueCanBeSet()" classname="ReactTest" time="0.001"/>
+  <testcase name="testCallbacksCanBeAddedAndRemoved()" classname="ReactTest" time="0.001"/>
+  <testcase name="testCallbacksShouldOnlyBeCalledOnceEvenIfMultipleDependenciesChange()" classname="ReactTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

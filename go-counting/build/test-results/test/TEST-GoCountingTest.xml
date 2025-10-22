@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="GoCountingTest" tests="11" skipped="0" failures="0" errors="0" timestamp="2025-07-29T09:00:54" hostname="MSI" time="0.065">
+  <properties/>
+  <testcase name="invalidXTooHigh5x5Board()" classname="GoCountingTest" time="0.039"/>
+  <testcase name="whiteCenter5x5BoardTest()" classname="GoCountingTest" time="0.006"/>
+  <testcase name="stoneNotTerritory5x5Board()" classname="GoCountingTest" time="0.001"/>
+  <testcase name="invalidXTooLow5x5Board()" classname="GoCountingTest" time="0.001"/>
+  <testcase name="twoRegionRectangularBoardTest()" classname="GoCountingTest" time="0.005"/>
+  <testcase name="invalidYTooLow5x5Board()" classname="GoCountingTest" time="0.001"/>
+  <testcase name="blackCorner5x5BoardTest()" classname="GoCountingTest" time="0.001"/>
+  <testcase name="invalidYTooHigh5x5Board()" classname="GoCountingTest" time="0.0"/>
+  <testcase name="oneTerritoryIsWholeBoardTest()" classname="GoCountingTest" time="0.001"/>
+  <testcase name="openCorner5x5BoardTest()" classname="GoCountingTest" time="0.001"/>
+  <testcase name="twoTerritoryRectangularBoardTest()" classname="GoCountingTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

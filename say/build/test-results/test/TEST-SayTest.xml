@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="SayTest" tests="19" skipped="0" failures="0" errors="0" timestamp="2025-07-13T23:04:52" hostname="MSI" time="0.066">
+  <properties/>
+  <testcase name="thirty()" classname="SayTest" time="0.037"/>
+  <testcase name="twenty()" classname="SayTest" time="0.001"/>
+  <testcase name="nineHundredNinetyNine()" classname="SayTest" time="0.001"/>
+  <testcase name="nineHundredEightySevenBillionSixHundredFiftyFourThreeHundredTwentyOneThousandOneHundredTwentyThree()" classname="SayTest" time="0.001"/>
+  <testcase name="oneBillion()" classname="SayTest" time="0.001"/>
+  <testcase name="one()" classname="SayTest" time="0.001"/>
+  <testcase name="zero()" classname="SayTest" time="0.001"/>
+  <testcase name="oneMillionTwoThousandThreeHundredFortyFive()" classname="SayTest" time="0.0"/>
+  <testcase name="ninetyNine()" classname="SayTest" time="0.0"/>
+  <testcase name="twentyTwo()" classname="SayTest" time="0.0"/>
+  <testcase name="fourteen()" classname="SayTest" time="0.0"/>
+  <testcase name="oneMillion()" classname="SayTest" time="0.0"/>
+  <testcase name="illegalNegativeNumber()" classname="SayTest" time="0.003"/>
+  <testcase name="oneHundred()" classname="SayTest" time="0.001"/>
+  <testcase name="illegalTooBigNumber()" classname="SayTest" time="0.001"/>
+  <testcase name="oneHundredTwentyThree()" classname="SayTest" time="0.001"/>
+  <testcase name="twoHundred()" classname="SayTest" time="0.0"/>
+  <testcase name="oneThousand()" classname="SayTest" time="0.0"/>
+  <testcase name="oneThousandTwoHundredThirtyFour()" classname="SayTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

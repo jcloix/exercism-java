@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ComplexNumberTest" tests="31" skipped="0" failures="0" errors="0" timestamp="2025-06-17T08:07:53" hostname="MSI" time="0.082">
+  <properties/>
+  <testcase name="testConjugationOfNumberWithRealAndImaginaryParts()" classname="ComplexNumberTest" time="0.04"/>
+  <testcase name="testExponentialOfZero()" classname="ComplexNumberTest" time="0.0"/>
+  <testcase name="testConjugationOfPurelyRealNumber()" classname="ComplexNumberTest" time="0.002"/>
+  <testcase name="testDivisionWithRealAndImaginaryParts()" classname="ComplexNumberTest" time="0.001"/>
+  <testcase name="testAdditionWithPurelyImaginaryNumbers()" classname="ComplexNumberTest" time="0.001"/>
+  <testcase name="testExponentialOfPurelyRealNumber()" classname="ComplexNumberTest" time="0.0"/>
+  <testcase name="testImaginaryPartOfNumberWithRealAndImaginaryParts()" classname="ComplexNumberTest" time="0.001"/>
+  <testcase name="testAbsoluteValueOfPositivePurelyRealNumber()" classname="ComplexNumberTest" time="0.001"/>
+  <testcase name="testExponentialOfNumberWithRealAndImaginaryParts()" classname="ComplexNumberTest" time="0.001"/>
+  <testcase name="testMultiplicationWithPurelyRealNumbers()" classname="ComplexNumberTest" time="0.001"/>
+  <testcase name="testAbsoluteValueOfNumberWithRealAndImaginaryParts()" classname="ComplexNumberTest" time="0.0"/>
+  <testcase name="testMultiplicationWithPurelyImaginaryNumbers()" classname="ComplexNumberTest" time="0.0"/>
+  <testcase name="testRealPartOfPurelyRealNumber()" classname="ComplexNumberTest" time="0.001"/>
+  <testcase name="testImaginaryUnitExhibitsDefiningProperty()" classname="ComplexNumberTest" time="0.001"/>
+  <testcase name="testDivisionWithPurelyRealNumbers()" classname="ComplexNumberTest" time="0.001"/>
+  <testcase name="testAdditionWithRealAndImaginaryParts()" classname="ComplexNumberTest" time="0.0"/>
+  <testcase name="testAbsoluteValueOfNegativePurelyRealNumber()" classname="ComplexNumberTest" time="0.001"/>
+  <testcase name="testRealPartOfPurelyImaginaryNumber()" classname="ComplexNumberTest" time="0.0"/>
+  <testcase name="testImaginaryPartOfPurelyRealNumber()" classname="ComplexNumberTest" time="0.0"/>
+  <testcase name="testSubtractionWithRealAndImaginaryParts()" classname="ComplexNumberTest" time="0.001"/>
+  <testcase name="testSubtractionWithPurelyImaginaryNumbers()" classname="ComplexNumberTest" time="0.0"/>
+  <testcase name="testConjugationOfPurelyImaginaryNumber()" classname="ComplexNumberTest" time="0.0"/>
+  <testcase name="testSubtractionWithPurelyRealNumbers()" classname="ComplexNumberTest" time="0.001"/>
+  <testcase name="testExponentialOfPurelyImaginaryNumber()" classname="ComplexNumberTest" time="0.0"/>
+  <testcase name="testDivisionWithPurelyImaginaryNumbers()" classname="ComplexNumberTest" time="0.001"/>
+  <testcase name="testRealPartOfNumberWithRealAndImaginaryParts()" classname="ComplexNumberTest" time="0.001"/>
+  <testcase name="testAbsoluteValueOfPurelyImaginaryNumberWithPositiveImaginaryPart()" classname="ComplexNumberTest" time="0.001"/>
+  <testcase name="testAdditionWithPurelyRealNumbers()" classname="ComplexNumberTest" time="0.001"/>
+  <testcase name="testMultiplicationWithRealAndImaginaryParts()" classname="ComplexNumberTest" time="0.001"/>
+  <testcase name="testAbsoluteValueOfPurelyImaginaryNumberWithNegativeImaginaryPart()" classname="ComplexNumberTest" time="0.001"/>
+  <testcase name="testImaginaryPartOfPurelyImaginaryNumber()" classname="ComplexNumberTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

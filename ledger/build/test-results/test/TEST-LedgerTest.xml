@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="LedgerTest" tests="11" skipped="0" failures="0" errors="0" timestamp="2025-07-19T11:51:21" hostname="MSI" time="0.072">
+  <properties/>
+  <testcase name="dutchLocaleAndEuros()" classname="LedgerTest" time="0.05"/>
+  <testcase name="emptyLedgerUS()" classname="LedgerTest" time="0.001"/>
+  <testcase name="creditAndDebit()" classname="LedgerTest" time="0.002"/>
+  <testcase name="euros()" classname="LedgerTest" time="0.001"/>
+  <testcase name="dutchNegativeNumberWith3DigitsBeforeDecimalPoint()" classname="LedgerTest" time="0.002"/>
+  <testcase name="americanNegativeNumberWith3DigitsBeforeDecimalPoint()" classname="LedgerTest" time="0.001"/>
+  <testcase name="finalOrderTieBreakerIsChange()" classname="LedgerTest" time="0.001"/>
+  <testcase name="dutchLocale()" classname="LedgerTest" time="0.001"/>
+  <testcase name="multipleEntriesOnSameDateOrderedByDescription()" classname="LedgerTest" time="0.002"/>
+  <testcase name="overlongDescriptions()" classname="LedgerTest" time="0.002"/>
+  <testcase name="oneEntry()" classname="LedgerTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

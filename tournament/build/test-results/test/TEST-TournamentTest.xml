@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="TournamentTest" tests="12" skipped="0" failures="0" errors="0" timestamp="2025-06-15T05:56:13" hostname="MSI" time="0.06">
+  <properties/>
+  <testcase name="typicalInput()" classname="TournamentTest" time="0.039"/>
+  <testcase name="incompleteCompetition()" classname="TournamentTest" time="0.002"/>
+  <testcase name="justTheHeaderIfNoInput()" classname="TournamentTest" time="0.001"/>
+  <testcase name="pointsSortedNumerically()" classname="TournamentTest" time="0.002"/>
+  <testcase name="aWinCanAlsoBeExpressedAsALoss()" classname="TournamentTest" time="0.001"/>
+  <testcase name="aDifferentTeamCanWin()" classname="TournamentTest" time="0.001"/>
+  <testcase name="tiesBrokenAlphabetically()" classname="TournamentTest" time="0.001"/>
+  <testcase name="aWinIsThreePointsALossIsZeroPoints()" classname="TournamentTest" time="0.001"/>
+  <testcase name="thereCanBeMoreThanTwoTeams()" classname="TournamentTest" time="0.001"/>
+  <testcase name="thereCanBeMoreThanOneMatch()" classname="TournamentTest" time="0.001"/>
+  <testcase name="thereCanBeMoreThanOneWinner()" classname="TournamentTest" time="0.001"/>
+  <testcase name="aDrawIsOnePointEach()" classname="TournamentTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="IntergalacticTransmissionTest" tests="26" skipped="0" failures="0" errors="0" timestamp="2025-07-27T02:49:58" hostname="MSI" time="0.085">
+  <properties/>
+  <testcase name="decodeLastByteWrongParity()" classname="IntergalacticTransmissionTest" time="0.013"/>
+  <testcase name="calculateTransmitSequences0x05IsTransmittedAs0x0581()" classname="IntergalacticTransmissionTest" time="0.036"/>
+  <testcase name="decode0xe2566500To0xe2ad90()" classname="IntergalacticTransmissionTest" time="0.001"/>
+  <testcase name="decodeSevenByteMessage()" classname="IntergalacticTransmissionTest" time="0.001"/>
+  <testcase name="calculateTransmitSequencesEightByteMessage()" classname="IntergalacticTransmissionTest" time="0.0"/>
+  <testcase name="calculateTransmitSequencesEmptyMessage()" classname="IntergalacticTransmissionTest" time="0.001"/>
+  <testcase name="decodeReceivedMessages0x2881IsDecodedTo0x29()" classname="IntergalacticTransmissionTest" time="0.001"/>
+  <testcase name="decodeSecondByteWrongParity()" classname="IntergalacticTransmissionTest" time="0.001"/>
+  <testcase name="decodeReceivedMessagesZeroMessage()" classname="IntergalacticTransmissionTest" time="0.001"/>
+  <testcase name="calculateTransmitSequencesSevenByteMessage()" classname="IntergalacticTransmissionTest" time="0.0"/>
+  <testcase name="decodeWrongParityOn16thByte()" classname="IntergalacticTransmissionTest" time="0.001"/>
+  <testcase name="decodeReceivedMessages0x0581IsDecodedTo0x05()" classname="IntergalacticTransmissionTest" time="0.001"/>
+  <testcase name="decodeFirstByteWrongParity()" classname="IntergalacticTransmissionTest" time="0.001"/>
+  <testcase name="decodeReceivedMessages0x0300IsDecodedTo0x02()" classname="IntergalacticTransmissionTest" time="0.0"/>
+  <testcase name="calculateTransmitSequences0xc001c0deIsTransmittedAs0xc000711be1()" classname="IntergalacticTransmissionTest" time="0.0"/>
+  <testcase name="calculateTransmitSequences0x00IsTransmittedAs0x0000()" classname="IntergalacticTransmissionTest" time="0.001"/>
+  <testcase name="calculateTransmitSequencesTwentyByteMessage()" classname="IntergalacticTransmissionTest" time="0.001"/>
+  <testcase name="calculateTransmitSequences0x02IsTransmittedAs0x0300()" classname="IntergalacticTransmissionTest" time="0.0"/>
+  <testcase name="calculateTransmitSequences0x06IsTransmittedAs0x0600()" classname="IntergalacticTransmissionTest" time="0.0"/>
+  <testcase name="calculateTransmitSequencesSixByteMessage()" classname="IntergalacticTransmissionTest" time="0.001"/>
+  <testcase name="decode0xcf4b00To0xce94()" classname="IntergalacticTransmissionTest" time="0.001"/>
+  <testcase name="calculateTransmitSequences0x29IsTransmittedAs0x2881()" classname="IntergalacticTransmissionTest" time="0.001"/>
+  <testcase name="decodeTwentyByteMessage()" classname="IntergalacticTransmissionTest" time="0.001"/>
+  <testcase name="decodeEightByteMessage()" classname="IntergalacticTransmissionTest" time="0.001"/>
+  <testcase name="decodeReceivedMessagesEmptyMessage()" classname="IntergalacticTransmissionTest" time="0.001"/>
+  <testcase name="decodeSixByteMessage()" classname="IntergalacticTransmissionTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

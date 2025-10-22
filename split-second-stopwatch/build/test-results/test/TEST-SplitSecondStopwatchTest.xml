@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="SplitSecondStopwatchTest" tests="29" skipped="0" failures="0" errors="0" timestamp="2025-09-10T07:24:27" hostname="MSI" time="0.081">
+  <properties/>
+  <testcase name="start cannot be called from running state" classname="SplitSecondStopwatchTest" time="0.036"/>
+  <testcase name="lap resets current lap and resumes time tracking" classname="SplitSecondStopwatchTest" time="0.003"/>
+  <testcase name="start from stopped state changes state to running" classname="SplitSecondStopwatchTest" time="0.001"/>
+  <testcase name="new stopwatch's current lap has no elapsed time" classname="SplitSecondStopwatchTest" time="0.0"/>
+  <testcase name="start from stopped state resumes time tracking for current lap" classname="SplitSecondStopwatchTest" time="0.001"/>
+  <testcase name="reset from stopped state changes state to ready" classname="SplitSecondStopwatchTest" time="0.0"/>
+  <testcase name="stop pauses time tracking for current lap" classname="SplitSecondStopwatchTest" time="0.0"/>
+  <testcase name="new stopwatch does not have previous laps" classname="SplitSecondStopwatchTest" time="0.004"/>
+  <testcase name="stop cannot be called from ready state" classname="SplitSecondStopwatchTest" time="0.0"/>
+  <testcase name="new stopwatch starts in ready state" classname="SplitSecondStopwatchTest" time="0.0"/>
+  <testcase name="reset cannot be called from ready state" classname="SplitSecondStopwatchTest" time="0.002"/>
+  <testcase name="lap cannot be called from ready state" classname="SplitSecondStopwatchTest" time="0.001"/>
+  <testcase name="stop does not change previous laps" classname="SplitSecondStopwatchTest" time="0.002"/>
+  <testcase name="new stopwatch's total has no elapsed time" classname="SplitSecondStopwatchTest" time="0.001"/>
+  <testcase name="start from stopped state resumes time tracking for total" classname="SplitSecondStopwatchTest" time="0.0"/>
+  <testcase name="start initiates time tracking for current lap" classname="SplitSecondStopwatchTest" time="0.0"/>
+  <testcase name="start from ready state changes state to running" classname="SplitSecondStopwatchTest" time="0.001"/>
+  <testcase name="stop cannot be called from stopped state" classname="SplitSecondStopwatchTest" time="0.0"/>
+  <testcase name="lap adds current lap to previous laps" classname="SplitSecondStopwatchTest" time="0.001"/>
+  <testcase name="start initiates time tracking for total" classname="SplitSecondStopwatchTest" time="0.001"/>
+  <testcase name="stop pauses time tracking for total" classname="SplitSecondStopwatchTest" time="0.0"/>
+  <testcase name="lap cannot be called from stopped state" classname="SplitSecondStopwatchTest" time="0.001"/>
+  <testcase name="start does not change previous laps" classname="SplitSecondStopwatchTest" time="0.001"/>
+  <testcase name="lap continues time tracking for total" classname="SplitSecondStopwatchTest" time="0.001"/>
+  <testcase name="reset resets current lap" classname="SplitSecondStopwatchTest" time="0.001"/>
+  <testcase name="reset clears previous laps" classname="SplitSecondStopwatchTest" time="0.001"/>
+  <testcase name="supports very long laps" classname="SplitSecondStopwatchTest" time="0.001"/>
+  <testcase name="stop from running state changes state to stopped" classname="SplitSecondStopwatchTest" time="0.001"/>
+  <testcase name="reset cannot be called from running state" classname="SplitSecondStopwatchTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

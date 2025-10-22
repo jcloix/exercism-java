@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="SpiralMatrixBuilderTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2025-07-26T11:48:49" hostname="MSI" time="0.05">
+  <properties/>
+  <testcase name="testTrivialSpiral()" classname="SpiralMatrixBuilderTest" time="0.037"/>
+  <testcase name="testSpiralOfSize2()" classname="SpiralMatrixBuilderTest" time="0.001"/>
+  <testcase name="testSpiralOfSize3()" classname="SpiralMatrixBuilderTest" time="0.002"/>
+  <testcase name="testSpiralOfSize4()" classname="SpiralMatrixBuilderTest" time="0.001"/>
+  <testcase name="testSpiralOfSize5()" classname="SpiralMatrixBuilderTest" time="0.001"/>
+  <testcase name="testEmptySpiral()" classname="SpiralMatrixBuilderTest" time="0.003"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

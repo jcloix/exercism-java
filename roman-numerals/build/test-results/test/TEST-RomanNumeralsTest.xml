@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="RomanNumeralsTest" tests="27" skipped="0" failures="0" errors="0" timestamp="2025-07-26T07:48:19" hostname="MSI" time="0.076">
+  <properties/>
+  <testcase name="test3000ToRomanNumberMMM()" classname="RomanNumeralsTest" time="0.036"/>
+  <testcase name="test3001ToRomanNumberMMMI()" classname="RomanNumeralsTest" time="0.0"/>
+  <testcase name="test666ToRomanNumberDCLXVI()" classname="RomanNumeralsTest" time="0.001"/>
+  <testcase name="test9ToRomanNumberIX()" classname="RomanNumeralsTest" time="0.001"/>
+  <testcase name="test575ToRomanNumberDLXXV()" classname="RomanNumeralsTest" time="0.002"/>
+  <testcase name="test49ToRomanNumberXLIX()" classname="RomanNumeralsTest" time="0.001"/>
+  <testcase name="test1ToRomanNumberI()" classname="RomanNumeralsTest" time="0.002"/>
+  <testcase name="test48ToRomanNumberXLVIII()" classname="RomanNumeralsTest" time="0.001"/>
+  <testcase name="test3ToRomanNumberIII()" classname="RomanNumeralsTest" time="0.0"/>
+  <testcase name="test1666ToRomanNumberMDCLXVI()" classname="RomanNumeralsTest" time="0.001"/>
+  <testcase name="test6ToRomanNumberVI()" classname="RomanNumeralsTest" time="0.0"/>
+  <testcase name="test66ToRomanNumberLXVI()" classname="RomanNumeralsTest" time="0.001"/>
+  <testcase name="test911ToRomanNumberCMXI()" classname="RomanNumeralsTest" time="0.001"/>
+  <testcase name="test1024ToRomanNumberMXXIV()" classname="RomanNumeralsTest" time="0.001"/>
+  <testcase name="test16ToRomanNumberXVI()" classname="RomanNumeralsTest" time="0.001"/>
+  <testcase name="test59ToRomanNumberLIX()" classname="RomanNumeralsTest" time="0.0"/>
+  <testcase name="test5ToRomanNumberV()" classname="RomanNumeralsTest" time="0.001"/>
+  <testcase name="test27ToRomanNumberXXVII()" classname="RomanNumeralsTest" time="0.001"/>
+  <testcase name="test141ToRomanNumberCXLI()" classname="RomanNumeralsTest" time="0.001"/>
+  <testcase name="test4ToRomanNumberIV()" classname="RomanNumeralsTest" time="0.001"/>
+  <testcase name="test3999ToRomanNumberMMMCMXCIX()" classname="RomanNumeralsTest" time="0.0"/>
+  <testcase name="test163ToRomanNumberCLXIII()" classname="RomanNumeralsTest" time="0.0"/>
+  <testcase name="test93ToRomanNumberXCIII()" classname="RomanNumeralsTest" time="0.001"/>
+  <testcase name="test166ToRomanNumberCLXVI()" classname="RomanNumeralsTest" time="0.0"/>
+  <testcase name="test2ToRomanNumberII()" classname="RomanNumeralsTest" time="0.0"/>
+  <testcase name="test402ToRomanNumberCDII()" classname="RomanNumeralsTest" time="0.001"/>
+  <testcase name="test3888ToRomanNumberMMMDCCCLXXXVIII()" classname="RomanNumeralsTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

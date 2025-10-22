@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="SwiftSchedulingTest" tests="16" skipped="0" failures="0" errors="0" timestamp="2025-07-17T08:17:15" hostname="MSI" time="0.064">
+  <properties/>
+  <testcase name="EOW on Wednesday" classname="SwiftSchedulingTest" time="0.037"/>
+  <testcase name="NOW at 9 AM" classname="SwiftSchedulingTest" time="0.001"/>
+  <testcase name="EOW on Thursday" classname="SwiftSchedulingTest" time="0.002"/>
+  <testcase name="EOW on Friday" classname="SwiftSchedulingTest" time="0.003"/>
+  <testcase name="EOW on Monday" classname="SwiftSchedulingTest" time="0.002"/>
+  <testcase name="ASAP at 1 PM" classname="SwiftSchedulingTest" time="0.001"/>
+  <testcase name="2M in January" classname="SwiftSchedulingTest" time="0.001"/>
+  <testcase name="11M in November" classname="SwiftSchedulingTest" time="0.001"/>
+  <testcase name="EOW on Tuesday" classname="SwiftSchedulingTest" time="0.001"/>
+  <testcase name="ASAP after 1 PM" classname="SwiftSchedulingTest" time="0.0"/>
+  <testcase name="4M in November" classname="SwiftSchedulingTest" time="0.0"/>
+  <testcase name="ASAP before 1 PM" classname="SwiftSchedulingTest" time="0.001"/>
+  <testcase name="EOW in leap year" classname="SwiftSchedulingTest" time="0.001"/>
+  <testcase name="Q1 in Q1" classname="SwiftSchedulingTest" time="0.001"/>
+  <testcase name="Q3 in Q4" classname="SwiftSchedulingTest" time="0.0"/>
+  <testcase name="Q4 in Q2" classname="SwiftSchedulingTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

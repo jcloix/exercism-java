@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="BuildTreeTest" tests="11" skipped="0" failures="0" errors="0" timestamp="2025-08-28T12:43:58" hostname="MSI" time="0.062">
+  <properties/>
+  <testcase name="testOneRecord()" classname="BuildTreeTest" time="0.038"/>
+  <testcase name="testBinaryTree()" classname="BuildTreeTest" time="0.001"/>
+  <testcase name="testUnbalancedTree()" classname="BuildTreeTest" time="0.003"/>
+  <testcase name="testEmptyList()" classname="BuildTreeTest" time="0.001"/>
+  <testcase name="testNonContinuousRecords()" classname="BuildTreeTest" time="0.004"/>
+  <testcase name="testNoRootNode()" classname="BuildTreeTest" time="0.0"/>
+  <testcase name="testCycleIndirectly()" classname="BuildTreeTest" time="0.002"/>
+  <testcase name="testThreeRecordsInReverseOrder()" classname="BuildTreeTest" time="0.0"/>
+  <testcase name="testThreeRecordsInOrder()" classname="BuildTreeTest" time="0.001"/>
+  <testcase name="testRecordsWithMoreThanTwoChildren()" classname="BuildTreeTest" time="0.001"/>
+  <testcase name="testRootNodeHasParent()" classname="BuildTreeTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

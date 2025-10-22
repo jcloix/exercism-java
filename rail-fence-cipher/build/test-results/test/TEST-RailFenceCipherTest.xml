@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="RailFenceCipherTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2025-07-25T13:10:06" hostname="MSI" time="137.477">
+  <properties/>
+  <testcase name="decodeWithThreeRailsCustom()" classname="RailFenceCipherTest" time="137.477"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

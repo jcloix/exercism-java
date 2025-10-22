@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ConnectTest" tests="10" skipped="0" failures="0" errors="0" timestamp="2025-07-09T11:20:18" hostname="MSI" time="0.052">
+  <properties/>
+  <testcase name="onlyEdgesDoesNotMakeAWinner()" classname="ConnectTest" time="0.037"/>
+  <testcase name="nobodyWinsCrossingAdjacentAngles()" classname="ConnectTest" time="0.001"/>
+  <testcase name="xCanWinOnA1x1Board()" classname="ConnectTest" time="0.001"/>
+  <testcase name="xWinsUsingConvolutedPath()" classname="ConnectTest" time="0.001"/>
+  <testcase name="xWinsUsingASpiralPath()" classname="ConnectTest" time="0.001"/>
+  <testcase name="oCanWinOnA1x1Board()" classname="ConnectTest" time="0.001"/>
+  <testcase name="oWinsCrossingFromTopToBottom()" classname="ConnectTest" time="0.001"/>
+  <testcase name="xWinsCrossingFromLeftToRight()" classname="ConnectTest" time="0.001"/>
+  <testcase name="illegalDiagonalDoesNotMakeAWinner()" classname="ConnectTest" time="0.001"/>
+  <testcase name="anEmptyBoardHasNoWinner()" classname="ConnectTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

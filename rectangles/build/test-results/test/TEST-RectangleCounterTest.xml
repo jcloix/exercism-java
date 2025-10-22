@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="RectangleCounterTest" tests="14" skipped="0" failures="0" errors="0" timestamp="2025-09-08T07:21:38" hostname="MSI" time="0.074">
+  <properties/>
+  <testcase name="only complete rectangles are counted" classname="RectangleCounterTest" time="0.037"/>
+  <testcase name="no rectangles" classname="RectangleCounterTest" time="0.002"/>
+  <testcase name="rectangles must have four sides" classname="RectangleCounterTest" time="0.002"/>
+  <testcase name="no rows" classname="RectangleCounterTest" time="0.003"/>
+  <testcase name="rectangles can be of different sizes" classname="RectangleCounterTest" time="0.001"/>
+  <testcase name="no columns" classname="RectangleCounterTest" time="0.002"/>
+  <testcase name="rectangle of width 1 is counted" classname="RectangleCounterTest" time="0.001"/>
+  <testcase name="five rectangles with shared parts" classname="RectangleCounterTest" time="0.001"/>
+  <testcase name="rectangle of height 1 is counted" classname="RectangleCounterTest" time="0.001"/>
+  <testcase name="1x1 square is counted" classname="RectangleCounterTest" time="0.001"/>
+  <testcase name="two rectangles without shared parts" classname="RectangleCounterTest" time="0.001"/>
+  <testcase name="large input with many rectangles" classname="RectangleCounterTest" time="0.001"/>
+  <testcase name="one rectangle" classname="RectangleCounterTest" time="0.001"/>
+  <testcase name="corner is required for a rectangle to be complete" classname="RectangleCounterTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

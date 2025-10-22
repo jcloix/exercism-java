@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="GigasecondTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2025-07-13T08:03:06" hostname="MSI" time="0.048">
+  <properties/>
+  <testcase name="withFullTimeSpecified()" classname="GigasecondTest" time="0.04"/>
+  <testcase name="modernTime()" classname="GigasecondTest" time="0.001"/>
+  <testcase name="beforeEpochTime()" classname="GigasecondTest" time="0.0"/>
+  <testcase name="afterEpochTime()" classname="GigasecondTest" time="0.001"/>
+  <testcase name="withFullTimeSpecifiedAndDayRollover()" classname="GigasecondTest" time="0.001"/>
+  <testcase name="doesNotMutateInput()" classname="GigasecondTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

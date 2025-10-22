@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="RestApiTest" tests="9" skipped="0" failures="0" errors="0" timestamp="2025-07-26T03:44:43" hostname="MSI" time="0.057">
+  <properties/>
+  <testcase name="lenderOwesBorrowerLessThanNewLoan()" classname="RestApiTest" time="0.042"/>
+  <testcase name="addUser()" classname="RestApiTest" time="0.001"/>
+  <testcase name="lenderOwesBorrowerSameAsNewLoan()" classname="RestApiTest" time="0.002"/>
+  <testcase name="bothUsersHave0Balance()" classname="RestApiTest" time="0.001"/>
+  <testcase name="lenderHasNegativeBalance()" classname="RestApiTest" time="0.001"/>
+  <testcase name="getSingleUser()" classname="RestApiTest" time="0.0"/>
+  <testcase name="lenderOwesBorrower()" classname="RestApiTest" time="0.001"/>
+  <testcase name="borrowerHasNegativeBalance()" classname="RestApiTest" time="0.0"/>
+  <testcase name="noUsers()" classname="RestApiTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

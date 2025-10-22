@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="PovTest" tests="15" skipped="0" failures="0" errors="0" timestamp="2025-09-01T09:57:46" hostname="MSI" time="0.06">
+  <properties/>
+  <testcase name="testPathToCanFindPathToSibling()" classname="PovTest" time="0.038"/>
+  <testcase name="testPathWhenSourceDoesNotExist()" classname="PovTest" time="0.003"/>
+  <testcase name="testFromPovGivenTreeWithNewRootDeeplyNested()" classname="PovTest" time="0.001"/>
+  <testcase name="testPathToCanFindPathFromNodesOtherThanX()" classname="PovTest" time="0.002"/>
+  <testcase name="testFromPovGivenTreeWithParentAndOneSibling()" classname="PovTest" time="0.0"/>
+  <testcase name="testFromPovGivenNonExistentTargetInLargeTree()" classname="PovTest" time="0.001"/>
+  <testcase name="testPathToCanFindPathToCousin()" classname="PovTest" time="0.001"/>
+  <testcase name="testFromPovGivenTreeWithParentAndManySibling()" classname="PovTest" time="0.0"/>
+  <testcase name="testPathToCanFindPathToParent()" classname="PovTest" time="0.0"/>
+  <testcase name="testFromPovGivenNonExistentTargetInSingletonTree()" classname="PovTest" time="0.0"/>
+  <testcase name="testPathToCanFindPathNotEnvolvingRoot()" classname="PovTest" time="0.0"/>
+  <testcase name="testFromPovGivenComplexTreeWithCousins()" classname="PovTest" time="0.001"/>
+  <testcase name="testPathWhenDestinationDoesNotExist()" classname="PovTest" time="0.001"/>
+  <testcase name="testFromPovGivenMovesChildrenOfNewRootToSameLevelAsFormerParent()" classname="PovTest" time="0.001"/>
+  <testcase name="testFromPovGivenSingletonTree()" classname="PovTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

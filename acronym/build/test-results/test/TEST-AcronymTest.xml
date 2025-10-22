@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="AcronymTest" tests="9" skipped="0" failures="0" errors="0" timestamp="2025-07-13T04:09:43" hostname="MSI" time="0.065">
+  <properties/>
+  <testcase name="underscoreEmphasis()" classname="AcronymTest" time="0.036"/>
+  <testcase name="lowercaseWords()" classname="AcronymTest" time="0.001"/>
+  <testcase name="apostrophes()" classname="AcronymTest" time="0.002"/>
+  <testcase name="basic()" classname="AcronymTest" time="0.003"/>
+  <testcase name="veryLongAbbreviation()" classname="AcronymTest" time="0.002"/>
+  <testcase name="nonAcronymAllCapsWord()" classname="AcronymTest" time="0.003"/>
+  <testcase name="consecutiveDelimiters()" classname="AcronymTest" time="0.002"/>
+  <testcase name="punctuationWithoutWhitespace()" classname="AcronymTest" time="0.0"/>
+  <testcase name="punctuation()" classname="AcronymTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

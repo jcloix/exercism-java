@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ZebraPuzzleTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2025-06-14T13:48:29" hostname="MSI" time="0.041">
+  <properties/>
+  <testcase name="residentWhoOwnsZebra()" classname="ZebraPuzzleTest" time="0.041"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

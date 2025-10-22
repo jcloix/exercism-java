@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="GameOfLifeTest" tests="8" skipped="0" failures="0" errors="0" timestamp="2025-07-18T12:45:51" hostname="MSI" time="0.077">
+  <properties/>
+  <testcase name="Live cells with only one live neighbor die" classname="GameOfLifeTest" time="0.041"/>
+  <testcase name="Live cells with three live neighbors stay alive" classname="GameOfLifeTest" time="0.002"/>
+  <testcase name="Dead cells with three live neighbors become alive" classname="GameOfLifeTest" time="0.003"/>
+  <testcase name="Live cells with four or more neighbors die" classname="GameOfLifeTest" time="0.005"/>
+  <testcase name="Empty Matrix" classname="GameOfLifeTest" time="0.004"/>
+  <testcase name="Bigger Matrix" classname="GameOfLifeTest" time="0.005"/>
+  <testcase name="Live cells with zero live neighbors die" classname="GameOfLifeTest" time="0.002"/>
+  <testcase name="Live cells with two live neighbors stay alive" classname="GameOfLifeTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

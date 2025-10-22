@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="TwoferTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2025-06-16T12:17:53" hostname="MSI" time="0.047">
+  <properties/>
+  <testcase name="noNameGiven()" classname="TwoferTest" time="0.039"/>
+  <testcase name="aNameGiven()" classname="TwoferTest" time="0.001"/>
+  <testcase name="anotherNameGiven()" classname="TwoferTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

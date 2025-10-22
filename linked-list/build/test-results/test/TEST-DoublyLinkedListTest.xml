@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="DoublyLinkedListTest" tests="8" skipped="0" failures="0" errors="0" timestamp="2025-07-24T09:25:06" hostname="MSI" time="0.051">
+  <properties/>
+  <testcase name="unshiftAddsElementAtStartOfTheList()" classname="DoublyLinkedListTest" time="0.038"/>
+  <testcase name="pushAndPopRespectivelyAddsAndRemovesAtEndOfList()" classname="DoublyLinkedListTest" time="0.001"/>
+  <testcase name="popGetsElementFromTheList()" classname="DoublyLinkedListTest" time="0.001"/>
+  <testcase name="shiftingToEmptyDoesNotBreakTheList()" classname="DoublyLinkedListTest" time="0.001"/>
+  <testcase name="shiftGetsAnElementFromTheList()" classname="DoublyLinkedListTest" time="0.001"/>
+  <testcase name="popPushShiftUnshiftCanBeUsedInAnyOrder()" classname="DoublyLinkedListTest" time="0.002"/>
+  <testcase name="shiftGetsFirstElementFromTheList()" classname="DoublyLinkedListTest" time="0.001"/>
+  <testcase name="poppingToEmptyDoesNotBreakTheList()" classname="DoublyLinkedListTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
